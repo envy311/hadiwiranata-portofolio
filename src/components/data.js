@@ -1,9 +1,3 @@
-import HeroImage from "/assets/hero-img.webp";
-
-const Image = {
-  HeroImage,
-};
-
 export default Image;
 
 import Tools1 from "/assets/tools/vscode.png";
@@ -175,4 +169,5 @@ export const listsertif = [
     dad: "200",
   },
  
+
 ];
