@@ -3,7 +3,7 @@ import { useState } from "react";
 import StarBorder from "./components/StarBorder/StarBorder";
 import Hyperspeed from "./components/backgrounds/Hyperspeed";
 import ProfileCard from "./components/ProfileCard/ProfileCard";
-import GradientText from "./components/Gradienttext/Gradienttext";
+import GradientText from "./components/GradientText/GradientText";
 import SplitText from "./components/SplitText/SplitText";
 import Lanyard from "./components/Lanyard/Lanyard";
 import { listProyek, listsertif, listTools } from "./components/data";
