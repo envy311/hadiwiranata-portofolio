@@ -1,4 +1,4 @@
-import './StarBorder.css';
+import './Starborder.css';
 
 const StarBorder = ({
   as: Component = 'button',
@@ -38,3 +38,4 @@ const StarBorder = ({
 };
 
 export default StarBorder;
+
